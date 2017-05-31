@@ -1,6 +1,6 @@
 
 import numpy as np
-import pandas as pd
+import pandas as pds
 
 def loadDataSet():
     postingList=[['my', 'dog', 'has', 'flea', 'problems', 'help', 'please'],
